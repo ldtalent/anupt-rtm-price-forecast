@@ -1,8 +1,13 @@
 # RTM IEX Price Forecasting using Bagging & Boosting Ensembles
 
-In recent years rapid urbanisation and aggressive electrification programs has resulted in an increase in all India energy (electric power) demand. If we observe the past trends in the data published by the Central Electricity Authority (CEA) of India, it is evident that the energy demand will continue to grow in years to come.
-On a macro level, it should not be surprising for a rapidly developing nation like India. But, when we look at the micro level which is the day to day operations of the power system, we can find many potential challenges which call for attention to improve the overall performance and efficiency of the power systems. Predicting Real Time Market (RTM) Prices accurately is one such challenge for a power utility. It is of utmost importance for the nation that power supply is never interrupted and thus every power utility thrives to meet the energy demand of their consumers.
-The challenge lies in the fact that the increment or decrement of energy demand is a real time process very similar to the price movement on the stock exchanges. This fluctuation in energy demand is to be anticipated and planned in advance for smooth power system operations. We would not go deep into the actual functioning of these systems, but it is good to know that to fulfill this real time anticipated increment or decrement in demand, a power utility may wish to buy or sell power on the Indian Energy Exchange Platform. If the power demand of the utilities' consumers are not fulfilled, they may have to face unplanned outages resulting in customer dissatisfaction.
+### Requirements
+`python v3.7`
+
+**To install dependencies**
+SkLearn: `pip install sklearn`
+XGBoost: `pip install xgboost`
+
+The code can be run as a notebook in google colab as well as a script using python executable.
 
 **Objective of this Exercise:** To analyze and model publically available data using RandomForest (Bagging) and XGBoost (Boosting) machine learning algorithms to predict Real Time Market (RTM) Prices on Indian Energy Exchange (IEX).
 
