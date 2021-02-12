@@ -1,7 +1,7 @@
 # RTM IEX Price Forecasting using Bagging & Boosting Ensembles
 
 ### Requirements
-Anconda Python Distribution for Best Results `python v 3.7 & above` 
+Anaconda Python Distribution for Best Results `python v 3.7 & above` 
 
 **To install dependencies**
 
