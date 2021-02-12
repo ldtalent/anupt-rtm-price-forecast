@@ -4,7 +4,9 @@
 `python v3.7`
 
 **To install dependencies**
+
 SkLearn: `pip install sklearn`
+
 XGBoost: `pip install xgboost`
 
 The code can be run as a notebook in google colab as well as a script using python executable.
